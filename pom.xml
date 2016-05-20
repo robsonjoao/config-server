@@ -73,6 +73,11 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+			<plugin>
+			  <groupId>io.hawt</groupId>
+			  <artifactId>hawtio-maven-plugin</artifactId>
+			  <version>1.4.64</version>
+			</plugin>			
 			<!-- 
             <plugin>
                 <groupId>com.spotify</groupId>
