@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>bj-config-server</name>
-	<description>Config Server</description>
+	<description>Config Serverx</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
